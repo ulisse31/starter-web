@@ -12,6 +12,8 @@ Some introduction
 
 ## Deeployment
 
+Please fork this repo balblablab
+
 Some stuff 123
 
 Other stuff 4567
