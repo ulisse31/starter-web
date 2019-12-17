@@ -16,3 +16,6 @@ Some stuff 123
 
 Other stuff 4567
 
+## COPYRIGHT
+
+blablablahhh
